@@ -1,1 +1,2 @@
 This is day 4 of testing git hub
+This is 2nd line from cli
